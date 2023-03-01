@@ -25,7 +25,7 @@ $ python -m pip install -r dev-requirements.txt
 1. Update version in `setup.cfg`.
 2. Build project:
 ```
-$ python -m pip install build
+$ python -m build
 ```
 3. Check the contents of the previously created `.whl` package:
 ```
